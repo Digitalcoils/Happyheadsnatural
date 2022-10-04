@@ -1,0 +1,228 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+nav ul {
+  margin-left: 50%;
+}
+
+nav ul li {
+  padding: 10px 20px;
+}
+
+.container-fluid {
+  margin: auto;
+  padding: 1% 12%;
+}
+
+.nav-link {
+  color: #493323;
+  font-weight: 300;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand {
+  color: #493323;
+  font-weight: 600;
+  font-family: 'Rufina', 'Raleway', sans-serif;
+}
+
+.welcome {
+  font-size: 4rem;
+  font-family: 'Playfair Display', sans-serif;
+  color: #493323;
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+
+.home-image {
+  margin-left: -50px;
+}
+
+.welcome-message {
+  padding-left: 30px;
+
+}
+
+.my-btn {
+  background-color: #66DE93;
+  font-size: 20px;
+  border: none;
+  padding: 2%;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.my-btn:hover {
+  margin-top: -1px;
+  background-color: #91684A;
+}
+
+.shop-porosity {
+  padding-bottom: 5%;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Rufina', sans-serif;
+  font-weight: 300;
+  color: #91684A;
+
+}
+
+.fav-page {
+  width: 40%;
+  margin: auto;
+  font-weight: 300;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+
+.linky {
+  text-decoration: none;
+  color: #493323;
+  font-weight: bold;
+}
+
+.mynatural-hair {
+  padding: 5% 10%;
+}
+
+.natural-one {
+  width: 60%;
+  border-radius: 10px;
+}
+
+.natural-two {
+  width: 60%;
+  border-radius: 10px;
+}
+
+.natural-three {
+  width: 60%;
+  border-radius: 10px;
+}
+
+.natural-one:hover {
+  cursor: pointer;
+  margin-top: -1px;
+  border: 2px solid #FFCB42;
+}
+
+.natural-two:hover {
+  cursor: pointer;
+  margin-top: -1px;
+  border: 2px solid #FFCB42;
+}
+
+.natural-three:hover {
+  cursor: pointer;
+  margin-top: -1px;
+  border: 2px solid #FFCB42;
+}
+
+#Shop-by-porosity {
+  background-color: #dcf2e5;
+  padding: 5% 5%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.description-text {
+  margin-top: 5px;
+  color: #493323;
+}
+#shop-by-brand{
+  text-align: center;
+  margin: 5% auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 60vh;
+
+}
+.carousel-item{
+  width: 25%;
+  margin-left: 37%;
+}
+.carousel-control-prev{
+  margin-bottom: 10%;
+}
+.carousel-control-next{
+  margin-bottom: 10%;
+}
+h5 {
+  margin-top: 10px;
+}
+.card-img-top{
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  padding-top: 3px;
+}
+.card{
+  margin-top: 13%;
+  padding: 4%;
+}
+#loved-products{
+  text-align: center;
+  background-color: #f2e2ce;
+  padding: 5% 5%;
+}
+#About-us{
+  text-align: center;
+}
+h4{
+  color: #91684A;
+  font-weight: bold;
+  text-align: center;
+}
+h3{
+  color: #91684A;
+  font-weight: bold;
+}
+.listy-item{
+  list-style: none;
+}
+.footer-item{
+  text-decoration: none;
+  color: #2e2a2a;
+}
+#About-us{
+  padding: 5% 7%;
+  text-align: center;
+  text-decoration: none;
+  height: 70vh;
+}
+.d-grid{
+  margin-top: 5%;
+}
+.email-address{
+  width: 100%;
+  text-align: center;
+  border: 1px solid #91684A;
+  border-radius: 8px;
+}
+.newsLetter-section{
+  border: 1px solid #91684A;
+  padding: 10%;
+  border-radius: 10px;
+}
+hr{
+  border: none #91684A;
+  border-style: dotted;
+}
+#footer-page{
+  background: #DFF6FF;
+  margin-top: 5%;
+  text-align: center;
+  margin: auto;
+}
+.footer-text{
+  font-size: 13px;
+  margin-top: 5px;
+}
+.footer-texts{
+  font-size: 14px;
+}
